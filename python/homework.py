@@ -1,0 +1,2 @@
+def calculatr():
+print("hello")
